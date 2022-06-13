@@ -1,0 +1,93 @@
+.menu{
+    @include flexbox(); 
+    height: $height;
+    &__main{
+        height: $height ;
+        padding: 0px 8px 16px 8px;
+        @include flexbox(center,space-between,nowrap,column); 
+    }
+    &__top{
+        width: 100%;
+        @include flexbox(center,flex-start,nowrap,column); 
+    }
+    &__list-menu{
+        width: 100%;
+    }
+    &__item-menu{
+        @include flexbox(center,flex-start,nowrap,column); 
+        cursor: pointer;
+        padding: 8px 0px;
+        font-weight: 700;
+        font-size: 12px;
+        border-radius: 8px;
+        gap: 9px;
+        color: $text-gray-light;
+      & svg {
+          path{
+            fill: currentColor; 
+          }
+      }
+      &:hover{
+        color: $text-blues;
+        background-color: $bgr-white-medium;
+      }
+      &.active{
+        color: $text-blues;
+        background-color: $bgr-white-medium;
+      }
+    }
+
+    &__sub-menu{
+        width: 230px;
+        height: inherit;
+        overflow: hidden;
+        background-color: $bgr-white-medium;
+    }
+    &__title{
+        color: $text-gray;
+        text-transform: uppercase;
+        padding: 16px;
+        border-bottom: 1px solid $bgr-white-dark;
+    }
+    &__list-sub{
+        overflow-y: scroll;
+        height: inherit;
+        padding: 32px 16px 16px 16px;
+    }
+    &__item-sub{
+        padding: 10px 16px;
+        border-radius: 4px;
+        &>a{
+            color: $text-black-light;
+            font-weight: 700;
+        }
+        &.active{
+            background-color: $bgr-white-dark;
+            &>a{
+                color: $text-blues;
+            }
+        }
+    }
+    &__item-sub:hover{
+        background-color: $bgr-white-dark;
+        &>a{
+            color: $text-blues;
+        }
+    }
+  
+}
+
+.icon-close-sub-menu{
+    cursor: pointer;
+    position: absolute;
+    content: '';
+    top: 14px;
+    left: 0;
+    width: 24px;
+    height: 24px;
+    transform: translateX(-50%);
+    @include flexbox(center,center);
+    background-color: $bgr-white;
+    border-radius: 50%;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.1), 0px 2px 10px rgba(0, 0, 0, 0.1);
+}

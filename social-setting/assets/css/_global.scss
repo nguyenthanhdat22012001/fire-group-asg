@@ -1,0 +1,100 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: $text-black;
+}
+
+// # custom scroll #
+
+/* width */
+::-webkit-scrollbar {
+    width: 7px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 10px; 
+}
+   
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 10px;
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+
+// # custom scroll #
+
+img{
+    max-width: 100%;
+}
+
+h2{
+    font-family: 'Gibson', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.wrapper{
+    max-width: $width;
+    margin: 0 auto;
+}
+
+
+.container{
+    width: 100%;
+    min-height: $height;
+    @include flexbox();
+
+    main{
+        flex: 1;
+    }
+
+}
+
+
+.main{
+    position: relative;
+    height: $height;
+    padding: 24px 0;
+    &__row{
+        width: 100%;
+        padding: 0 40px;
+    }
+    &__header{
+        @include flexbox(center,space-between); 
+    }
+    &__list-btn{
+        >button:first-child{
+            margin-right: 8px;
+        }
+    }
+    &__tabs{
+        margin-top: 28px;
+    }
+    &__form{
+        margin-top: 48px;
+    }
+}
+
+// class can reuse everywhere
+
+
+
+.flex-center-between{
+    @include flexbox(center,space-between); 
+}
+
+.text-doc-1{
+    @include dotText(1);
+}
+
+.text-doc-2{
+    @include dotText();
+}

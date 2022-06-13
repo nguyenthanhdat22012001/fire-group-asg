@@ -1,0 +1,8 @@
+.tag{
+    font-size: 12px;
+    border-radius: 4px;
+    padding: 2px 8px;
+    &--gray-light{
+        background-color: $bgr-white-dark;
+    }
+}
