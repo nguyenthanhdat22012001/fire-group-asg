@@ -1,0 +1,2 @@
+declare const STORE_CREDIBILITY_MESSAGE: any;
+export default STORE_CREDIBILITY_MESSAGE;

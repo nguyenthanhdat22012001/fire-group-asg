@@ -1,0 +1,596 @@
+{
+    "country": {
+        "english": "English (Default)",
+        "spanish": "Spanish",
+        "france": "French",
+        "german": "German",
+        "japanese": "Japanese",
+        "portugal": "Portugal",
+        "brazil": "Brazil"
+    },
+    "common": {
+        "btn_hire": "Hire Experts"
+    },
+    "modal": {
+        "hire_experts": {
+            "title": "OneExperts",
+            "des": "We quickly optimize your store speed",
+            "sub_des": "One-time charge",
+            "text_all_services": "All services:",
+            "services": [
+                "Images optimization",
+                "JS and CSS optimization",
+                "Lazy loading images & videos",
+                "Clean up theme’s code",
+                "Preload critical resources",
+                "Speed audit"
+            ],
+            "policies": [
+                "I agree to provide OneExperts acccess to my store, theme, and product.",
+                "I have read and agree to <a href='https://support.fireapps.io/en/article/terms-of-service-1yvcj8h/?bust=1650967073648' target='_blank'>Terms of Service</a> and <a href='https://support.fireapps.io/en/article/privacy-policy-5e0qee/' target='_blank'>Privacy Policy.</a>"
+            ]
+        }
+    },
+    "home_page": {
+        "dashboard_component": {
+            "title": "Dashboard",
+            "des": "Move along more quickly with some of the most often used features.",
+            "btn_speed": "Re-Boost Speed",
+            "btn_upgrade": "Upgrade now",
+            "btn_re_evaluate": "Re-evaluate",
+            "badge_experts": "Experts",
+            "badge_premium": "Premium",
+            "box_feat1": {
+                "title": "OneExperts",
+                "des": "Guarantee to increase speed score or Money back without question",
+                "btn": "Find out more"
+            },
+            "box_feat2": {
+                "title": "Preloading",
+                "des": "Predict customers’ next page and download its content in advance",
+                "btn": "Setup Preloading"
+            },
+            "box_feat3": {
+                "title": "Actual Speed",
+                "des": "Optimize images and theme to boost store speed",
+                "btn": "Auto Optimize"
+            }
+        },
+        "store_evaluation_component": {
+            "title": "Store evaluation",
+            "des": "Here is some evaluation about your store, keep it near 100 to maximize your store performance.",
+            "box_feat1": {
+                "des": "Speed is now a powerful and effective tool for you to:",
+                "store_speed_title": "Store speed",
+                "sub_des": "OneExperts is ready to help at any time.",
+                "text_by": "by Google PageSpeed",
+                "btn_learn_more": "Learn more",
+                "btn_chat": "Chat with us"
+            },
+            "box_feat2": {
+                "des": "Your social roof ranking is quite low, which will cause:",
+                "online_review_title": "Online review",
+                "sub_des": "Let Ali Reviews help you boost your store reputation!",
+                "btn_view": "View demo store",
+                "btn_explore": "Explore Ali Reviews"
+            }
+        },
+        "store_speed_component": {
+            "speed_0_19": {
+                "title": "Your site's speed is very slow, resulting in:",
+                "btn": "Fix speed issue with expert",
+                "btn_learn": "Learn more",
+                "fa_experts": "It’s slower than 90% similar stores, but you can fix.",
+                "order_100": {
+                    "line_1": "11% fewer page views",
+                    "line_2": "6-10 orders monthly loss",
+                    "line_3": "Make store less discoverable"
+                },
+                "order_300": {
+                    "line_1": "11% fewer page views",
+                    "line_2": "15-30 orders monthly loss",
+                    "line_3": "Decrease search engine rankings"
+                },
+                "order_500": {
+                    "line_1": "7% loss in conversions",
+                    "line_2": "3% increase in bounce rate",
+                    "line_3": "Decrease search engine rankings"
+                },
+                "order_1000": {
+                    "line_1": "11% fewer page views",
+                    "line_2": "17% decrease in conversion rate",
+                    "line_3": "Negative impact on your brand's trust and loyalty"
+                },
+                "order_more_1000": {
+                    "line_1": "Decrease 40% mobile conversion rates",
+                    "line_2": "3% increase in bounce rate",
+                    "line_3": "Make store less discoverable"
+                }
+            },
+            "speed_20_39": {
+                "title": "Improving speed by one second can avoid:",
+                "btn": "Maximize speed with expert",
+                "btn_learn": "Learn more",
+                "fa_experts": "Your store is slower than 60% similar stores. Let’s fix.",
+                "order_100": {
+                    "line_1": "11% fewer page views",
+                    "line_2": "6-10 orders monthly loss",
+                    "line_3": "16% decrease in customer satisfaction"
+                },
+                "order_300": {
+                    "line_1": "11% fewer page views",
+                    "line_2": "3% increase in bounce rate",
+                    "line_3": "15-30 orders monthly loss"
+                },
+                "order_500": {
+                    "line_1": "7% loss in conversions",
+                    "line_2": "3% increase in bounce rate",
+                    "line_3": "Decrease search engine rankings"
+                },
+                "order_1000": {
+                    "line_1": "11% fewer page views",
+                    "line_2": "17% decrease in conversion rate",
+                    "line_3": "Negative impact on your brand's trust and loyalty"
+                },
+                "order_more_1000": {
+                    "line_1": "Decrease 40% mobile conversion rates",
+                    "line_2": "15% decrease in revenue",
+                    "line_3": "Negative impact on your brand's trust and loyalty"
+                }
+            },
+
+            "speed_40_60": {
+                "title": "Speed is now an effective tool for you to:",
+                "fa_experts": "Your store is faster than 60% similar stores. OneExperts is ready to help at any time.",
+                "btn": "Chat with us",
+                "btn_learn": "Learn more",
+                "order_100": {
+                    "line_1": "Decrease bounce rate",
+                    "line_2": "Increase Google SEO rankings"
+                },
+                "order_300": {
+                    "line_1": "Increase Google SEO rankings",
+                    "line_2": "Improve customer buying experience"
+                },
+                "order_500": {
+                    "line_1": "Increase Google SEO rankings",
+                    "line_2": "Decrease bounce rate"
+                },
+                "order_1000": {
+                    "line_1": "Increase Google SEO rankings",
+                    "line_2": "Build your brand's trust and loyalty"
+                },
+                "order_more_1000": {
+                    "line_1": "Improve customer buying experience",
+                    "line_2": "Increase your brand's trust and loyalty"
+                }
+            },
+            "speed_61_100": {
+                "title": "Keeping this high speed will help you:",
+                "fa_experts": "Great. Your store is faster than 90% similar stores.",
+                "order_100": {
+                    "line_1": "Improve customer buying experience",
+                    "line_2": "Increase Google SEO rankings",
+                    "line_3": "Build your brand's trust and loyalty"
+                },
+                "order_300": {
+                    "line_1": "Improve customer buying experience",
+                    "line_2": "Increase Google SEO rankings",
+                    "line_3": "Build your brand's trust and loyalty"
+                },
+                "order_500": {
+                    "line_1": "Improve customer buying experience",
+                    "line_2": "Increase Google SEO rankings",
+                    "line_3": "Build your brand's trust and loyalty"
+                },
+                "order_1000": {
+                    "line_1": "Improve customer buying experience",
+                    "line_2": "Increase Google SEO rankings",
+                    "line_3": "Build your brand's trust and loyalty"
+                },
+                "order_more_1000": {
+                    "line_1": "Improve customer buying experience",
+                    "line_2": "Increase Google SEO rankings",
+                    "line_3": "Build your brand's trust and loyalty"
+                }
+            }
+        },
+        "store_credibility_component": {
+            "common": {
+                "btn_open": "Open App",
+                "btn_view": "View demo store",
+                "btn_explore": "Explore Ali Reviews"
+            },
+            "credibility": "Credibility",
+            "explore_alireview": "Explore Ali Reviews",
+            "open_app": "Open app",
+            "view_demo_store": "View demo store",
+            "not_install": {
+                "title": "Your online review count is low, resulting in:",
+                "message": {
+                    "line_1": "Untrustworthy storefront",
+                    "line_2": "15% increase in bounce rate",
+                    "line_3": "18% loss in monthly sales"
+                },
+
+                "des": "Using a quality reviews app can help you avoid this."
+            },
+            "install_yotpo": {
+                "title": "A better reviews app can help you with:",
+                "message": {
+                    "line_1": "Many available reviews for dropshipping ",
+                    "line_2": "Up to 25% reviewers sharing a photo",
+                    "line_3": "Multi-language reviews more easily"
+                },
+                "des": "Pay less, earn more with Ali Reviews today."
+            },
+            "install_loox": {
+                "title": "A better reviews app can help you avoid:",
+                "message": {
+                    "line_1": "Complex request processes ",
+                    "line_2": "40% loss in opened email rate",
+                    "line_3": "Not-friendly nor attractive review widget"
+                },
+                "des": "Try Ali Reviews, improve brand trust to drive your sales."
+            },
+            "install_judgeme": {
+                "title": "A better reviews app can help you avoid:",
+                "message": {
+                    "line_1": "No multi-language reviews",
+                    "line_2": "No highly personalized request emails",
+                    "line_3": "Up to 3x loss in return spending "
+                },
+                "des": "Try Ali Reviews, improve brand trust to drive your sales."
+            },
+            "install_fera": {
+                "title": "A better reviews app can help you avoid:",
+                "message": {
+                    "line_1": "Limited customizable abilities",
+                    "line_2": "Limited request emails",
+                    "line_3": "18% decrease in user time on-site "
+                },
+
+                "des": "Try Ali Reviews, improve brand trust to drive your sales."
+            },
+            "install_automizely": {
+                "title": "A better reviews app can help you avoid:",
+                "message": {
+                    "line_1": "Limited customizable abilities",
+                    "line_2": "Limited request emails",
+                    "line_3": "18% decrease in user time on-site "
+                },
+                "des": "Try Ali Reviews, improve brand trust to drive your sales."
+            },
+            "install_alireview": {
+                "title": "You're using a good reviews app with:",
+                "message": {
+                    "line_1": "Highly customizable abilities",
+                    "line_2": "Perfect scheduling tools",
+                    "line_3": "Strong integration with Transcy"
+                },
+                "des": "Great, let’s keep growing with Ali Reviews."
+            },
+            "install_multiple": {
+                "title": "A better reviews app can help you avoid::",
+                "line": "Your store isn’t equipped good solutions, this can lead:",
+                "message": {
+                    "line_1": "Not-friendly nor attractive review widget",
+                    "line_2": "40% loss in opened request emails",
+                    "line_3": "No multi-language reviews"
+                },
+
+                "des": "Try Ali Reviews, improve brand trust to drive your sales."
+            }
+        },
+        "blog_component": {
+            "title": "Blog",
+            "text_link": "Learn more"
+        },
+        "boost_sale_component": {
+            "title": "Discover apps to keep your store growing",
+            "common": {
+                "link_reviews": "reviews",
+                "btn_learn": "Learn more"
+            },
+            "list_app": [
+                {
+                    "title": "Ali Reviews ‑ Product Reviews",
+                    "des": "Review App to collect reviews by Email/SMS & Reviews Importer",
+                    "sub_des": "Free plan available"
+                },
+                {
+                    "title": "Transcy: AI Language Translate",
+                    "des": "Multi Language, Multi Currency Converter Box by Geolocation",
+                    "sub_des": "Free plan available. 14-day free trial."
+                },
+                {
+                    "title": "True Profit Calc & Analytics",
+                    "des": "Profit Calculator+Profit Tracker+Profit Loss+Net Profit & COGS",
+                    "sub_des": "From $19.95/month. 14-day free trial. Additional charges may apply."
+                },
+                {
+                    "title": "Facebook, Google Shopping Feed",
+                    "des": "Sync product for Google Feed, Facebook Feed & TikTok Shop",
+                    "sub_des": "Free plan available. 14-day free trial."
+                },
+                {
+                    "title": "Instagram Feed, Story & TikTok",
+                    "des": "Instagram Shop, Instagram Gallery, Instafeed & Section Feed",
+                    "sub_des": "Free plan available. 14-day free trial."
+                },
+                {
+                    "title": "SubBox: Subscriptions",
+                    "des": "Subscriptions app to yield recurring revenues & payments",
+                    "sub_des": "Free plan available. 14-day free trial."
+                }
+            ]
+        }
+    },
+    "one_expert_page": {
+        "common": {
+            "btn_hire": "Hire Experts",
+            "btn_Talk_to": "Talk to an Expert"
+        },
+        "banner_component": {
+            "title": "Maximize your website's perfomance",
+            "des": "Slow loading pages make your store look unprofessional, and could lead to a dramatic decrease in revenue. We're here to help."
+        },
+        "proven_component": {
+            "text_img": "Business days",
+            "text_positive": "Positive reviews",
+            "text_worldwide": "Worldwide merchants",
+            "text_years": "Years of experience",
+            "topic": "WHAT IS ONEEXPERTS?",
+            "title": "A proven speed-up service",
+            "des": " FireGroup is a well-known company that also owns <a target='_blank' href='https://apps.shopify.com/ali-reviews'>Ali Reviews</a> and <a target='_blank' href='https://apps.shopify.com/transcy-multiple-languages'>Transcy</a>. We aim to assist online businesses in establishing a solid foundation for success.",
+            "des_achieve1": "Trusted by over 1,000,000 worldwide merchants",
+            "des_achieve2": "Has five years of Shopify app development experience",
+            "des_achieve3": "With more than 10,000 reviews on Shopify Apps Store"
+        },
+        "experience_component": {
+            "text_positive": "Positive reviews",
+            "text_worldwide": "Worldwide merchants",
+            "text_years": "Years of experience",
+            "topic": "WHY CHOOSE US?",
+            "title": "We value your experience",
+            "des": "We respect your time and work. Thus we make serious commitments to meaningful changes to your site.",
+            "reliable_title": "RELIABLE",
+            "reliable_sub_title1": "Speed increase or get a refund",
+            "reliable_des1": "We guarantee to improve your store's speed. If not, you'll get 100% of your money back.",
+            "reliable_sub_title2": "No cheat codes",
+            "reliable_des2": "No required coding knowledge. Nor any cheat codes. Enjoy your faster performance.",
+            "quality_title": "QUALITY",
+            "quality_sub_title1": "Good price",
+            "quality_des1": "All-in-one package service at a reasonable price. Usually done within 3-7 business days.",
+            "quality_sub_title2": "Detailed reports",
+            "quality_des2": "Audit speed reports for optimization results. <br/> No sale interruption all through the process.",
+            "helpful_title": "HELPFUL",
+            "helpful_sub_title1": "World-class lifetime support",
+            "helpful_des1": "Easy to contact experts at any time you want without limitation.",
+            "helpful_sub_title2": "Regularly speed checkup",
+            "helpful_des2": "Keep track of your site's speed and notify you if it begins to slow down."
+        },
+        "store_speed_component": {
+            "topic": "WHAT DO WE DO?",
+            "title": "We quickly optimize your store speed",
+            "des": "Go with experts. You can focus on making money.",
+            "feat_title1": "Images and videos optimization",
+            "feat_des1": "Reduce delay time by serving responsive images and 'lazy' loading images or videos only when needed.",
+            "feat_title2": "Third-party apps optimization",
+            "feat_des2": "Reduce the Java script of the third-party apps without causing any interruption.",
+            "feat_title3": "Clean up theme's code",
+            "feat_des3": "Remove uninstalled apps' leftover code that is slowing down the theme's speed.",
+            "feat_title4": "Preload critical resources",
+            "feat_des4": "Based on Google Analytics, assign a priority level and tell the browser to preload the content."
+        },
+        "perfomance_component": {
+            "title": "Only <span>$150</span>, maximize your website's perfomance with <span>OneExperts</span>"
+        },
+        "customer_say_component": {
+            "title": "WHAT OUR CUSTOMERS SAY?",
+            "review_title1": "Algot Larsson",
+            "review_sub_title1": "Founder at Topper Prylar",
+            "review_des1": "The app literally saved my store. Before I used the  OneExperts I had 25 in Score on Google site Speed and 40 on computer. After I payed which was very cheap, I got 96 on computer and 78 on mobile. You lose about 65% of your customers if you have a similar score to what I had. Thank you",
+            "review_title2": "Eric Boyd",
+            "review_sub_title2": "Director at Reaching Quiet",
+            "review_des2": "I can't put into words how amazing this app was and for an additional $150 they cleaned up code and got us from a Google lighthouse score of 35 to 95. We have spent a year trying to accomplish this and they did it in 2 days. They have my highest recommendations.",
+            "review_title3": "Emmy",
+            "review_sub_title3": "Founder at Emmy Jane Boutique",
+            "review_des3": "Absolutely brilliant app & the support couldn't be more helpful. I have used the  OneExperts Service to boost my store speed. The price was very reasonable & the results are excellent. My store mobile speed has increased by around 30 points. So happy. I can't recommend highly enough."
+        },
+        "questions_component": {
+            "topic": "FREQUENTLY ASKED QUESTIONS",
+            "title": "Got a question? Get help anytime, 24/7",
+            "des": "Have tested on thousands of stores to find out what works best. We believe good ideas worth spreading.",
+            "list_question": [
+                {
+                    "title": "Do I need to provide store permission for the process to start?",
+                    "des": "Yes, we need Apps, Themes, Product, and Reports permissions to evaluate and optimize your store speed. Therefore, you will need to provide us with a Staff account with those permission in order to do our job. Also, we do have a Privacy policy here, so please do not worry about leaking your valuable information."
+                },
+                {
+                    "title": "What can I expect from OneExperts service?",
+                    "des": "A higher mobile speed score on Google PageSpeed Insights Senior Developers with 5+ years of experience in the Shopify market will take care of your website speed. Depending on the current situation and your store structure, we might optimize your store using these techniques:<br/>- Lazy load images and videos <br/>- Render images in a proper size <br/>- Minify JS/CSS code <br/>- Implement preloading tactics<br/>- Optimize CSS and Liquid code<br/>- App analysis <br/>We'll monthly check up on your speed performance after optimizing and you will be consulted for free by our Customer Support Specialist."
+                },
+                {
+                    "title": "Will optimization affect the design of my store?",
+                    "des": "No, our optimization process will only boost your store speed and won't affect anything else (layout, components, features...). To make sure things are safe, we only optimize on the duplicated theme and you can review it before publishing it in your store."
+                },
+                {
+                    "title": "What if I notice there is no improvement after optimization?",
+                    "des": "Yes, we need Apps, Themes, Product, and Reports permissions to evaluate and optimize your store speed. Therefore, you will need to provide us with a Staff account with those permission in order to do our job. Also, we do have a Privacy policy here, so please do not worry about leaking your valuable information."
+                },
+                {
+                    "title": "Can I make changes to the site while your team is working on it?",
+                    "des": "We try our best to make future-proof as much as possible by editing the Liquid theme code and using JavaScript anywhere when applicable. Therefore the edits we perform on your theme are generally long-lasting. We also provide recommendations in the report at the end of the project to give you information for the future. Keep in mind that any changes you make after we have done the optimization task can easily affect our final testing result. We should not have any responsibility in case your store speed becomes worse. Those changes include but are not limited to:<br/>- Change your theme template/structure<br/>- Change the design of your website (font, images, videos, contents, etc.) <br/>- Add more products to your store<br/>- Add more third-party apps <br/>- Delete our optimize code without our notice <br/>In that case, we can do a Free technical analysis for you, and if needed, you would need to open a new request for us to optimize your store again."
+                }
+            ]
+        }
+    },
+    "pricing_page": {
+        "common": {
+            "btn_get": "Get 7-days Free trial",
+            "btn_hire": "Hire Experts",
+            "btn_you": "You are here",
+            "btn_later": "Later",
+            "btn_explore": "Explore now",
+            "btn_view": "View all features",
+            "btn_hide": "Hide all features",
+            "text_link": "I'm satisfied now, go to dashboard "
+        },
+        "title": "Do you want more Advanced techniques?",
+        "des": "Improve the Speed of your Store and increase Sales Conversion",
+        "title_premium": "PREMIUM",
+        "text_monthly": "Monthly",
+        "title_swift": "SWIFT EXPERTS",
+        "text_one_time": "One-time charge",
+        "text_cancel": "Cancel any time, risk free",
+        "text_not_sure": "Not sure?",
+        "text_link": "Find out more",
+        "dataTableCollapse": [
+            {
+                "header": "PLAN'S PROVISION"
+            },
+            {
+                "titleRow": "Served by",
+                "secondRow": "AI System",
+                "thirdRow": "7-Years Experience Developers from Store Speed Optimization Experts"
+            },
+            {
+                "titleRow": "Increase speed score in Google PageSpeed Insights",
+                "secondRow": "Not guarantee",
+                "thirdRow": "Guarantee",
+                "toolLabelHeader": "Score will be calculated in 3 main pages including Homepage. Collection pages and Product pages",
+                "toolLabelRow": "Your speed score will be increased for sure, OR we will refund the whole fee without ask"
+            },
+            {
+                "titleRow": "Free Site Audit & Consultant before optimizing"
+            }
+        ],
+        "title_advanced": "ADVANCED TECHNIQUES",
+        "title_support": "SUPPORT & SERVICES",
+        "dataTableExpand": [
+            {
+                "titleRow": "Image optimization with Smart Lossy Compression",
+                "expandInfo": "Swift uses the latest Smart Lossy image compression techniques to reduce up to 70% in image sizes for maximum page speed."
+            },
+            {
+                "titleRow": "FREE 1000 images to be compressed",
+                "expandInfo": "At the beginning of each month, you will receive 1000 free images to optimize if you have bought our monthly subscription plan. Since compressing images can be done easily by automatic tool but does not bring much effect to speed score, we do not include it in the Expert service.",
+                "secondRow": "Monthly"
+            },
+            {
+                "titleRow": "Theme optimization",
+                "expandInfo": "Make your theme files smaller to boost your store's speed."
+            },
+            {
+                "titleRow": "Automatic daily optimization",
+                "expandInfo": "Swift actively monitor your store to detect new product images and newly changes in theme, then compress them automatically so that they don't decreate your page speed or your Core Web Vitals metrics. So that you don't have to run the optimize tool after changing your site."
+            },
+            {
+                "titleRow": "Lazyload images",
+                "expandInfo": "<span style='color: #202223'>Basic: </span>Lazyload unseen images from initial loading using AI tool </br> <span style='color: #202223'>Advance: </span>  Lazy load unseen images from initial loading by human coding to ensure the problem with offscreen images will be resolved on Google PageSpeed Insights"
+            },
+            {
+                "titleRow": "Using properly image sizes",
+                "expandInfo": "Our experts will utilize responsive image sizes to load the right image size each time, thus stopping large images to hurt your page speed."
+            },
+            {
+                "titleRow": "Lazyload YouTube/Vimeo videos",
+                "expandInfo": "Load YouTube/Vimeo video player on-demand when the user clicks on the Play button & thumbnail image only instead of auto-play."
+            },
+            {
+                "titleRow": "Minify JS, CSS and HTML files",
+                "expandInfo": "Minification takes the beautified, well formed code (CSS/JS/HTML files), and removes the spacing, indentation, newlines, and comments in order to reduce the size of the source code, making its transmission over the Internet) more efficient."
+            },
+            {
+                "titleRow": "Extract critical CSS",
+                "expandInfo": "A technique that extracts the CSS for above-the-fold content in order to render content to the user as fast as possible. Above-the-fold is all the content a viewer sees on page load, before scrolling."
+            },
+            {
+                "titleRow": "Preload web fonts",
+                "expandInfo": "Web Fonts (most used is Google Fonts) pulled from the web aren’t as fast as system fonts (those installed on your computer). Web traffic outside of your website becomes part of the loading speed. Therefore, preloading your web fonts is worth doing to improve your site’s loading speed."
+            },
+            {
+                "titleRow": "Optimize JavaScript code from third-party apps",
+                "expandInfo": "Too many scripts from other apps can hurt your page speed. We analyze the apps loaded on your store, defer and monitor them to reduce their impact on your store."
+            },
+            {
+                "titleRow": "Fix issues manually warned by Google PageSpeed Insights tool",
+                "expandInfo": "We will investigate and check all warnings in Google PageSpeed Insights and fix them (if possible) in order to increase your speed score."
+            },
+
+            {
+                "titleRow": "Free store speed analysis and suggestions",
+                "expandInfo": "Receive a free analysis about your store's current speed situation, and suggestions to improve it."
+            },
+            {
+                "titleRow": "Apps and Theme Alternative Recommendation",
+                "expandInfo": "In case you have installed slow app(s) and/or theme, we will give you some suggestions, and you will be the person to decide finally."
+            },
+            {
+                "titleRow": "16/5 Live chat and Email support",
+                "expandInfo": "We always try our best to provide a world-class support service when we are online. Any questions/concerns should be replied within 1 business day."
+            },
+            {
+                "titleRow": "Dedicated Account Manager",
+                "expandInfo": "A dedicated account manager will follow up from the first day after buying service, and will be your main contact point for the whole life."
+            },
+            {
+                "titleRow": "Preview before on-air",
+                "expandInfo": "You will have a chance to preview optimized theme, and test functions before publishing it to your live store."
+            },
+            {
+                "titleRow": "Monthly check-up",
+                "expandInfo": "Monthly our system will evaluate your store, and we will send you an email notification in case your speed score is being decreased."
+            }
+        ],
+        "modal_component": {
+            "title_heading": "Upgrade Success",
+            "title_body": "You're using Premium plan",
+            "des_body": "Fasten your seatbelt. Your store speed is about to be faster than ever."
+        }
+    },
+    "onboarding_page": {
+        "common": {
+            "step_start": "Start",
+            "step_preview": "Preview",
+            "step_finish": "Finish"
+        },
+        "step1_component": {
+            "title": "One Click to Improve Speed",
+            "des": "Improve the Speed of your Store and increase Sales Conversion",
+            "btn": "BOOST SPEED"
+        },
+        "step2_component": {
+            "title": "Preview your store  to check the speed",
+            "des": "Improve the Speed of your Store and increase Sales Conversion",
+            "btn_learn": "Learn more",
+            "btn_preview": "Preview store and Come back",
+            "box_note": {
+                "title": "IMPORTANT NOTE:",
+                "note1": "The Swift app firstly will preload links, and work on the second page load, so your store will load faster.",
+                "note2": "This step will NOT have any impact on speed scores on tools like Google PageSpeed Insights, GTMetrix, Pingdom.",
+                "note3": "In order to increase speed scores, go further in next few steps."
+            },
+            "pop_up": "Your store speed up successfully"
+        },
+        "step3_component": {
+            "title": "Your store is now loading faster without further configuration!",
+            "des": "Enjoying your experience?",
+            "btn_yes": "Yes, tell me more",
+            "btn_no": "No, I need help"
+        }
+    },
+    "setting_page": {
+        "language": {
+            "title": "Published languages",
+            "btn_cancel":"Cancel",
+            "btn_save":"Save",
+            "des": "Active in the markets they've been added to and visible to customers.",
+            "form": {
+                "lable": "Language",
+                "note": "Language for buttons, titles and other text from Swift app"
+            }
+        }
+    }
+}

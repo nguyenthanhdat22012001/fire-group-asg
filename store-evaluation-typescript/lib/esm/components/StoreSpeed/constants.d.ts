@@ -1,0 +1,2 @@
+declare const STORE_EVALUATION_SPEED_MESSAGE: any;
+export default STORE_EVALUATION_SPEED_MESSAGE;

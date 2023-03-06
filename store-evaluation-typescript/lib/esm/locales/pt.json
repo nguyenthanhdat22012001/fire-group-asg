@@ -1,0 +1,591 @@
+{
+    "country": {
+        "english": "English (Default)",
+        "spanish": "Spanish",
+        "france": "French",
+        "german": "German",
+        "japanese": "Japanese",
+        "portugal": "Portugal",
+        "brazil": "Brazil"
+    },
+    "common": {
+        "btn_hire": "Contratar especialistas"
+    },
+    "modal": {
+        "hire_experts": {
+            "title": "umEspecialista",
+            "des": "Otimizamos rapidamente a velocidade da sua loja",
+            "sub_des": "Cobrança única",
+            "text_all_services": "Todos os serviços:",
+            "services": [
+                "Otimização de imagens",
+                "Otimização JS e CSS",
+                "Imagens de carregamento preguiçoso e vídeos",
+                "Limpe o código do tema",
+                "Pré -carregar recursos críticos",
+                "Auditoria de velocidade"
+            ],
+            "policies": [
+                "Concordo em fornecer a OneExperts acessar minha loja, tema e produto.",
+                "Eu li e concordo em <a href='https://support.fireapps.io/en/article/terms-of-service-1yvcj8h/?bust=1650967073648'-Target='_blank'> Termos de serviço <//> e <a href='https://support.fireapps.io/en/article/privacy-policy-5e0qee/'arget='_blank'> Política de privacidade. </a>"
+            ]
+        }
+    },
+    "home_page": {
+        "dashboard_component": {
+            "title": "Painel",
+            "des": "Avance mais rapidamente com alguns dos recursos mais usados.",
+            "btn_speed": "reAumentarAVelocidade",
+            "btn_upgrade": "Atualize agora",
+            "btn_re_evaluate": "Reavaliar",
+            "badge_experts": "Experts",
+            "badge_premium": "Premium",
+            "box_feat1": {
+                "title": "OneExperts",
+                "des": "Garantia para aumentar a pontuação de velocidade ou o dinheiro de volta sem dúvida",
+                "btn": "Descubra mais"
+            },
+            "box_feat2": {
+                "title": "Pré -carregamento",
+                "des": "Preveja a próxima página dos clientes e baixe seu conteúdo com antecedência",
+                "btn": "Configuração de pré -carregamento"
+            },
+            "box_feat3": {
+                "title": "Velocidade real",
+                "des": "Otimize imagens e tema para aumentar a velocidade da loja",
+                "btn": "Otimizar automaticamente"
+            }
+        },
+        "store_evaluation_component": {
+            "title": "Avaliação da loja",
+            "des": "Aqui está alguma avaliação sobre a sua loja, mantenha-a perto dos 100 para maximizar o desempenho da sua loja.",
+            "box_feat1": {
+                "des": "A velocidade agora é uma ferramenta poderosa e eficaz para você:",
+                "store_speed_title": "Velocidade da loja",
+                "sub_des": "umEspecialista is ready to help at any time.",
+                "text_by": "pelo Google PagesPeed",
+                "btn_learn_more": "Saber mais",
+                "btn_chat": "Converse conosco"
+            },
+            "box_feat2": {
+                "des": "Seu ranking de telhado social é bastante baixo, o que causará:",
+                "online_review_title": "Revisão online",
+                "sub_des": "Deixe as avaliações da ALI ajudá -lo a aumentar a reputação da sua loja!",
+                "btn_view": "Veja a loja de demonstração",
+                "btn_explore": "Explore as revisões de Ali"
+            }
+        },
+        "store_speed_component": {
+            "speed_0_19": {
+                "title": "A velocidade do seu site é muito lenta, resultando em:",
+                "btn": "Corrija o problema de velocidade com especialista",
+                "btn_learn": "Saber mais",
+                "fa_experts": "É mais lento que 90% de lojas semelhantes, mas você pode corrigir.",
+                "order_100": {
+                    "line_1": "11% menos visualizações de página",
+                    "line_2": "6-10 pedidos de perda mensal",
+                    "line_3": "Tornar a loja menos descoberta"
+                },
+                "order_300": {
+                    "line_1": "11% menos visualizações de página",
+                    "line_2": "15-30 pedidos de perda mensal",
+                    "line_3": "Diminuir as classificações dos mecanismos de pesquisa"
+                },
+                "order_500": {
+                    "line_1": "7% de perda em conversões",
+                    "line_2": "Aumento de 3% na taxa de salto",
+                    "line_3": "Diminuir as classificações dos mecanismos de pesquisa"
+                },
+                "order_1000": {
+                    "line_1": "11% menos visualizações de página",
+                    "line_2": "17% diminuição na taxa de conversão",
+                    "line_3": "Impacto negativo na confiança e lealdade da sua marca"
+                },
+                "order_more_1000": {
+                    "line_1": "Diminuir 40% de taxas de conversão móvel",
+                    "line_2": "Aumento de 3% na taxa de salto",
+                    "line_3": "Tornar a loja menos descoberta"
+                }
+            },
+            "speed_20_39": {
+                "title": "Melhorar a velocidade em um segundo pode evitar:",
+                "btn": "Maximizar a velocidade com especialista",
+                "btn_learn": "Saber mais",
+                "fa_experts": "Sua loja é mais lenta que 60% de lojas semelhantes.Vamos consertar.",
+                "order_100": {
+                    "line_1": "11% menos visualizações de página",
+                    "line_2": "6-10 pedidos de perda mensal",
+                    "line_3": "16% diminuição da satisfação do cliente"
+                },
+                "order_300": {
+                    "line_1": "11% menos visualizações de página",
+                    "line_2": "Aumento de 3% na taxa de salto",
+                    "line_3": "15-30 pedidos de perda mensal"
+                },
+                "order_500": {
+                    "line_1": "7% de perda em conversões",
+                    "line_2": "Aumento de 3% na taxa de salto",
+                    "line_3": "Diminuir as classificações dos mecanismos de pesquisa"
+                },
+                "order_1000": {
+                    "line_1": "11% menos visualizações de página",
+                    "line_2": "17% diminuição na taxa de conversão",
+                    "line_3": "Impacto negativo na confiança e lealdade da sua marca"
+                },
+                "order_more_1000": {
+                    "line_1": "Diminuir 40% de taxas de conversão móvel",
+                    "line_2": "15% diminuição da receita",
+                    "line_3": "Impacto negativo na confiança e lealdade da sua marca"
+                }
+            },
+            "speed_40_60": {
+                "title": "A velocidade agora é uma ferramenta eficaz para você:",
+                "fa_experts": "Sua loja é mais rápida que 60% de lojas semelhantes.O OneExperts está pronto para ajudar a qualquer momento.",
+                "btn": "Converse conosco",
+                "btn_learn": "Saber mais",
+                "order_100": {
+                    "line_1": "Diminuir a taxa de salto",
+                    "line_2": "Aumente o ranking do Google SEO"
+                },
+                "order_300": {
+                    "line_1": "Aumente o ranking do Google SEO",
+                    "line_2": "Melhorar a experiência de compra de clientes"
+                },
+                "order_500": {
+                    "line_1": "Aumente o ranking do Google SEO",
+                    "line_2": "Diminuir a taxa de salto"
+                },
+                "order_1000": {
+                    "line_1": "Aumente o ranking do Google SEO",
+                    "line_2": "Construa a confiança e a lealdade da sua marca"
+                },
+                "order_more_1000": {
+                    "line_1": "Melhorar a experiência de compra de clientes",
+                    "line_2": "Aumente a confiança e a lealdade da sua marca"
+                }
+            },
+            "speed_61_100": {
+                "title": "Manter essa alta velocidade irá ajudá -lo:",
+                "fa_experts": "Excelente.Sua loja é mais rápida que 90% de lojas semelhantes.",
+                "order_100": {
+                    "line_1": "Melhorar a experiência de compra de clientes",
+                    "line_2": "Aumente o ranking do Google SEO",
+                    "line_3": "Construa a confiança e a lealdade da sua marca"
+                },
+                "order_300": {
+                    "line_1": "Melhorar a experiência de compra de clientes",
+                    "line_2": "Aumente o ranking do Google SEO",
+                    "line_3": "Construa a confiança e a lealdade da sua marca"
+                },
+                "order_500": {
+                    "line_1": "Melhorar a experiência de compra de clientes",
+                    "line_2": "Aumente o ranking do Google SEO",
+                    "line_3": "Construa a confiança e a lealdade da sua marca"
+                },
+                "order_1000": {
+                    "line_1": "Melhorar a experiência de compra de clientes",
+                    "line_2": "Aumente o ranking do Google SEO",
+                    "line_3": "Construa a confiança e a lealdade da sua marca"
+                },
+                "order_more_1000": {
+                    "line_1": "Melhorar a experiência de compra de clientes",
+                    "line_2": "Aumente o ranking do Google SEO",
+                    "line_3": "Construa a confiança e a lealdade da sua marca"
+                }
+            }
+        },
+        "store_credibility_component": {
+            "common": {
+                "btn_open": "App aberto",
+                "btn_view": "Veja a loja de demonstração",
+                "btn_explore": "Explore as revisões de Ali"
+            },
+            "credibility": "Credibility",
+            "explore_alireview": "Explore as revisões de Ali",
+            "open_app": "App aberto",
+            "view_demo_store": "Veja a loja de demonstração",
+            "not_install": {
+                "title": "Sua contagem de revisões on -line é baixa, resultando em:",
+                "message": {
+                    "line_1": "Store não confiável",
+                    "line_2": "Aumento de 15% na taxa de salto",
+                    "line_3": "Perda de 18% em vendas mensais"
+                },
+                "des": "O uso de um aplicativo de avaliações de qualidade pode ajudar a evitar isso."
+            },
+            "install_yotpo": {
+                "title": "Um aplicativo de avaliações melhores pode ajudá -lo com:",
+                "message": {
+                    "line_1": "Muitas críticas disponíveis para dropshipping",
+                    "line_2": "Até 25% revisores compartilhando uma foto",
+                    "line_3": "Revisões multi-idiomas mais facilmente"
+                },
+                "des": "Pague menos, ganhe mais com as avaliações da Ali hoje."
+            },
+            "install_loox": {
+                "title": "Um aplicativo de avaliações melhores pode ajudá -lo a evitar:",
+                "message": {
+                    "line_1": "Processos de solicitação complexos",
+                    "line_2": "Perda de 40% na taxa de e -mail aberta",
+                    "line_3": "Widget de revisão não amigável nem atraente"
+                },
+                "des": "Experimente as análises da ALI, melhore a confiança da marca para impulsionar suas vendas."
+            },
+            "install_judgeme": {
+                "title": "Um aplicativo de avaliações melhores pode ajudá -lo a evitar:",
+                "message": {
+                    "line_1": "Não há críticas em vários idiomas",
+                    "line_2": "Sem e -mails de solicitação altamente personalizados",
+                    "line_3": "Até 3x perda nos gastos de retorno"
+                },
+                "des": "Experimente as análises da ALI, melhore a confiança da marca para impulsionar suas vendas."
+            },
+            "install_fera": {
+                "title": "Um aplicativo de avaliações melhores pode ajudá -lo a evitar:",
+                "message": {
+                    "line_1": "Habilidades limitadas personalizáveis",
+                    "line_2": "E -mails de solicitação limitada",
+                    "line_3": "18% diminuição no tempo do usuário no local"
+                },
+                "des": "Try Ali Reviews, improve brand trust to drive your sales."
+            },
+            "install_automizely": {
+                "title": "Um aplicativo de avaliações melhores pode ajudá -lo a evitar:",
+                "message": {
+                    "line_1": "Habilidades limitadas personalizáveis",
+                    "line_2": "E -mails de solicitação limitada",
+                    "line_3": "18% diminuição no tempo do usuário no local"
+                },
+                "des": "Experimente as análises da ALI, melhore a confiança da marca para impulsionar suas vendas."
+            },
+            "install_alireview": {
+                "title": "Você está usando um bom aplicativo de críticas com:",
+                "message": {
+                    "line_1": "Habilidades altamente personalizáveis",
+                    "line_2": "Ferramentas de programação perfeitas",
+                    "line_3": "Forte integração com transcy"
+                },
+                "des": "Ótimo, vamos continuar crescendo com as avaliações de Ali."
+            },
+            "install_multiple": {
+                "title": "Um aplicativo de avaliações melhores pode ajudá -lo a evitar ::",
+                "line": "Sua loja não está equipada com boas soluções, isso pode liderar:",
+                "message": {
+                    "line_1": "Widget de revisão não amigável nem atraente",
+                    "line_2": "40% de perda em e -mails de solicitação aberta",
+                    "line_3": "Não há críticas em vários idiomas"
+                },
+                "des": "Experimente as análises da ALI, melhore a confiança da marca para impulsionar suas vendas."
+            }
+        },
+        "blog_component": {
+            "title": "blog",
+            "text_link": "Saber mais"
+        },
+        "boost_sale_component": {
+            "title": "Descubra aplicativos para manter sua loja crescendo",
+            "common": {
+                "link_reviews": "avaliações",
+                "btn_learn": "Saber mais"
+            },
+            "list_app": [
+                {
+                    "title": "Ali Reviews ‑ Product Reviews",
+                    "des": "Revise o aplicativo para coletar críticas por e -mail/sms e revisores importadores",
+                    "sub_des": "Plano gratuito disponível"
+                },
+                {
+                    "title": "Transcy: AI Language Translate",
+                    "des": "Multi idioma, caixa de conversor multi -moeda por geolocalização",
+                    "sub_des": "Plano gratuito disponível.Teste gratuito de 14 dias."
+                },
+                {
+                    "title": "True Profit Calc & Analytics",
+                    "des": "Calculadora de lucro+rastreador de lucro+perda de lucro+lucro líquido e engrenagens",
+                    "sub_des": "De US $ 19,95/mês.Teste gratuito de 14 dias.Encargos adicionais podem ser aplicados."
+                },
+                {
+                    "title": "Facebook, Google Shopping Feed",
+                    "des": "Produto de sincronização para feeds do Google, Feed Feed & Tiktok Shop",
+                    "sub_des": "Plano gratuito disponível.Teste gratuito de 14 dias."
+                },
+                {
+                    "title": "Instagram Feed, Story & TikTok",
+                    "des": "Loja do Instagram, Galeria do Instagram, Feed Instafeed e Seção",
+                    "sub_des": "Plano gratuito disponível.Teste gratuito de 14 dias."
+                },
+                {
+                    "title": "SubBox: Subscriptions",
+                    "des": "Aplicativo de assinaturas para produzir receitas e pagamentos recorrentes",
+                    "sub_des": "Plano gratuito disponível.Teste gratuito de 14 dias."
+                }
+            ]
+        }
+    },
+    "one_expert_page": {
+        "common": {
+            "btn_hire": "Contratar especialistas",
+            "btn_Talk_to": "Fale com um especialista"
+        },
+        "banner_component": {
+            "title": "Maximize o desempenho do seu site",
+            "des": "As páginas de carregamento lento fazem sua loja parecer não profissional e pode levar a uma diminuição dramática na receita.Nós estamos aqui para ajudar."
+        },
+        "proven_component": {
+            "text_img": "Dias úteis",
+            "text_positive": "Críticas positivas",
+            "text_worldwide": "Comerciantes mundiais",
+            "text_years": "Anos de experiência",
+            "topic": "O que é o OneExperts?",
+            "title": "Um serviço de aceleração comprovado",
+            "des": " FireGroup é uma empresa bem conhecida que também possui <a target='_blank' href='https://apps.shopify.com/ali-reviews'>Ali Reviews</a> e <a target='_blank' href='https://apps.shopify.com/transcy-multiple-languages'>Transcy</a>.Nosso objetivo é ajudar as empresas on -line a estabelecer uma base sólida para o sucesso.",
+            "des_achieve1": "Confiável por mais de 1.000.000 de comerciantes mundiais",
+            "des_achieve2": "Tem cinco anos de experiência em desenvolvimento de aplicativos do Shopify",
+            "des_achieve3": "Com mais de 10.000 críticas na loja de aplicativos do Shopify"
+        },
+        "experience_component": {
+            "text_positive": "Críticas positivas",
+            "text_worldwide": "Comerciantes mundiais",
+            "text_years": "Anos de experiência",
+            "topic": "PORQUE ESCOLHER-NOS?",
+            "title": "Valorizamos sua experiência",
+            "des": "Nós respeitamos seu tempo e trabalho.Assim, assumimos sérios compromissos com mudanças significativas em seu site.",
+            "reliable_title": "CONFIÁVEL",
+            "reliable_sub_title1": "Aumentar a velocidade ou obter um reembolso",
+            "reliable_des1": "Garantimos melhorar a velocidade da sua loja.Caso contrário, você receberá 100% do seu dinheiro de volta.",
+            "reliable_sub_title2": "Sem códigos de trapaça",
+            "reliable_des2": "Nenhum conhecimento de codificação necessário.Nem nenhum código de trapaça.Aproveite seu desempenho mais rápido.",
+            "quality_title": "QUALIDADE",
+            "quality_sub_title1": "Bom preço",
+            "quality_des1": "Serviço de pacotes all-in-one a um preço razoável.Geralmente feito em 3-7 dias úteis.",
+            "quality_sub_title2": "Relatórios detalhados",
+            "quality_des2": "Relatórios de velocidade de auditoria para resultados de otimização.<br/> nenhuma interrupção de venda durante todo o processo.",
+            "helpful_title": "ÚTIL",
+            "helpful_sub_title1": "Apoio ao longo da vida de classe mundial",
+            "helpful_des1": "Fácil de entrar em contato com especialistas a qualquer momento que desejar sem limitação.",
+            "helpful_sub_title2": "Velocidade regularmente de velocidade",
+            "helpful_des2": "Acompanhe a velocidade do seu site e notifique -o se ele começar a desacelerar."
+        },
+        "store_speed_component": {
+            "topic": "O QUE NÓS FAZEMOS?",
+            "title": "Otimizamos rapidamente a velocidade da sua loja",
+            "des": "Vá com especialistas.Você pode se concentrar em ganhar dinheiro.",
+            "feat_title1": "Otimização de imagens e vídeos",
+            "feat_des1": "Reduza o tempo de atraso, servindo imagens responsivas e imagens ou vídeos de carregamento 'preguiçoso' somente quando necessário.",
+            "feat_title2": "Otimização de aplicativos de terceiros",
+            "feat_des2": "Reduza o script Java dos aplicativos de terceiros sem causar nenhuma interrupção.",
+            "feat_title3": "Limpe o código do tema",
+            "feat_des3": "Remova o código restante dos aplicativos desinstalados que está diminuindo a velocidade do tema.",
+            "feat_title4": "Pré -carregar recursos críticos",
+            "feat_des4": "Com base no Google Analytics, atribua um nível de prioridade e diga ao navegador para pré -carregar o conteúdo."
+        },
+        "perfomance_component": {
+            "title": "Apenas <span>$150</span>, maximizar o desempenho do seu site com <span>OneExperts</span>"
+        },
+        "customer_say_component": {
+            "title": "O que nossos clientes dizem?",
+            "review_title1": "Algot Larsson",
+            "review_sub_title1": "Fundador da Topper Gadgets",
+            "review_des1": "O aplicativo literalmente salvou minha loja.Antes de usar o OneExperts, eu tinha 25 em pontuação na velocidade do site do Google e 40 no computador.Depois que paguei o que era muito barato, recebi 96 no computador e 78 no celular.Você perde cerca de 65% de seus clientes se tiver uma pontuação semelhante ao que eu tinha.obrigada",
+            "review_title2": "Eric Boyd",
+            "review_sub_title2": "Diretor de Alcance Silencioso",
+            "review_des2": "Não posso colocar em palavras o quão incrível esse aplicativo foi e, por US $ 150 adicionais, eles limparam o código e nos levaram a partir de uma pontuação do Lighthouse do Google de 35 a 95. Passamos um ano tentando conseguir isso e eles fizeram isso em 2 dias.Eles têm minhas mais altas recomendações.",
+            "review_title3": "Emmy",
+            "review_sub_title3": "Fundador da Emmy Jane Boutique",
+            "review_des3": "App absolutamente brilhante e o suporte não poderia ser mais útil.Eu usei o serviço OneExperts para aumentar a velocidade da minha loja.O preço foi muito razoável e os resultados são excelentes.A velocidade móvel da minha loja aumentou cerca de 30 pontos.Tão feliz.Não posso recomendar o suficiente."
+        },
+        "questions_component": {
+            "topic": "PERGUNTAS FREQUENTES",
+            "title": "Tem uma questão?Obtenha ajuda a qualquer hora, 24/7",
+            "des": "Testaram em milhares de lojas para descobrir o que funciona melhor.Acreditamos que boas idéias que valem a pena se espalhar.",
+            "list_question": [
+                {
+                    "title": "Preciso fornecer permissão da loja para o início do processo?",
+                    "des": "Sim, precisamos de aplicativos, temas, produtos e relatórios permissões para avaliar e otimizar a velocidade da sua loja.Portanto, você precisará nos fornecer uma conta da equipe com essas permissão para fazer nosso trabalho.Além disso, temos uma política de privacidade aqui, por isso, não se preocupe em vazar suas informações valiosas."
+                },
+                {
+                    "title": "O que posso esperar do serviço OneExperts?",
+                    "des": "Uma pontuação de velocidade móvel mais alta no Google PageSpeed Insights seniores desenvolvedores com mais de 5 anos de experiência no mercado do Shopify cuidará da velocidade do seu site.Dependendo da situação atual e da estrutura da sua loja, podemos otimizar sua loja usando essas técnicas: <br/>- Imagens e vídeos de carga preguiçosa <br/>- Renderizar imagens em um tamanho adequado <br/>- Minificar o código JS/CSS <br/>- Implementar táticas de pré -carregamento<br/>- Otimizar CSS e código líquido<br/>- Análise de aplicativos <br/> Vamos verificar mensalmente o seu desempenho de velocidade após otimizar e você será consultado gratuitamente por nosso especialista em suporte ao cliente."
+                },
+                {
+                    "title": "A otimização afetará o design da minha loja?",
+                    "des": "Não, nosso processo de otimização só aumentará a velocidade da sua loja e não afetará mais nada (layout, componentes, recursos ...).Para garantir que as coisas estejam seguras, apenas otimizamos o tema duplicado e você pode revisá -lo antes de publicá -lo em sua loja."
+                },
+                {
+                    "title": "E se eu notar que não há melhorias após a otimização?",
+                    "des": "Sim, precisamos de aplicativos, temas, produtos e relatórios permissões para avaliar e otimizar a velocidade da sua loja.Portanto, você precisará nos fornecer uma conta da equipe com essas permissão para fazer nosso trabalho.Além disso, temos uma política de privacidade aqui, por isso, não se preocupe em vazar suas informações valiosas."
+                },
+                {
+                    "title": "Posso fazer alterações no site enquanto sua equipe está trabalhando nisso?",
+                    "des": "Tentamos o nosso melhor para tornar o futuro o máximo possível, editando o código do tema líquido e usando o JavaScript em qualquer lugar quando aplicável.Portanto, as edições que realizamos no seu tema geralmente são duradouras.Também fornecemos recomendações no relatório no final do projeto para fornecer informações para o futuro.Lembre -se de que quaisquer alterações que você fizer depois de fazer a tarefa de otimização pode afetar facilmente nosso resultado final de teste.Não devemos ter nenhuma responsabilidade, caso a velocidade da sua loja fique pior.Essas mudanças incluem, mas não estão limitadas a:<br/>- Altere seu modelo/estrutura de tema<br/>- Altere o design do seu site (fonte, imagens, vídeos, conteúdo etc.) <br/>- Adicione mais produtos à sua loja<br/>- Adicione mais aplicativos de terceiros <br/>- Exclua nosso código de otimizar sem o nosso aviso <br/>Nesse caso, podemos fazer uma análise técnica gratuita para você e, se necessário, você precisará abrir um novo pedido para otimizarmos sua loja novamente."
+                }
+            ]
+        }
+    },
+    "pricing_page": {
+        "common": {
+            "btn_get": "Obtenha uma avaliação gratuita de 7 dias",
+            "btn_hire": "Contratar especialistas",
+            "btn_you": "Você está aqui",
+            "btn_later": "Mais tarde",
+            "btn_explore": "Explorar agora",
+            "btn_view": "Veja todos os recursos",
+            "btn_hide": "Ocultar todos os recursos",
+            "text_link": "Estou satisfeito agora, vá para o painel"
+        },
+        "title": "Você quer técnicas mais avançadas?",
+        "des": "Melhore a velocidade da sua loja e aumente a conversão de vendas",
+        "title_premium": "PRÊMIO",
+        "text_monthly": "Por mês",
+        "title_swift": "SWIFT EXPERTS",
+        "text_one_time": "Cobrança única",
+        "text_cancel": "Cancelar a qualquer momento, sem risco",
+        "text_not_sure": "Não tenho certeza?",
+        "text_link": "Descubra mais",
+        "dataTableCollapse": [
+            {
+                "header": "Provisão do plano"
+            },
+            {
+                "titleRow": "Servido por",
+                "secondRow": "Sistema AI",
+                "thirdRow": "7 anos de experiência desenvolvedores de especialistas em otimização de velocidade da loja"
+            },
+            {
+                "titleRow": "Aumentar a pontuação de velocidade no Google PageSpeed Insights",
+                "secondRow": "Não garantia",
+                "thirdRow": "Garantia",
+                "toolLabelHeader": "A pontuação será calculada em 3 páginas principais, incluindo a página inicial.Páginas de coleta e páginas de produtos",
+                "toolLabelRow": "Sua pontuação de velocidade será aumentada com certeza, ou reembolsaremos toda a taxa sem perguntar"
+            },
+            {
+                "titleRow": "Auditoria e consultor gratuitos do site antes de otimizar"
+            }
+        ],
+        "title_advanced": "Técnicas avançadas",
+        "title_support": "SERVIÇOS DE SUPORTE",
+        "dataTableExpand": [
+            {
+                "titleRow": "Otimização de imagem com compressão com perda inteligente",
+                "expandInfo": "A Swift usa as mais recentes técnicas de compressão de imagem com perda inteligente para reduzir até 70% nos tamanhos de imagem para obter a velocidade máxima da página."
+            },
+            {
+                "titleRow": "1000 imagens gratuitas a serem compactadas",
+                "expandInfo": "No início de cada mês, você receberá 1000 imagens gratuitas para otimizar se tiver comprado nosso plano de assinatura mensal.Como a compactação de imagens pode ser feita facilmente pela ferramenta automática, mas não traz muito efeito para a pontuação de velocidade, não a incluímos no serviço especialista.",
+                "secondRow": "Por mês"
+            },
+            {
+                "titleRow": "Otimização do tema",
+                "expandInfo": "Torne seus arquivos de tema menores para aumentar a velocidade da sua loja."
+            },
+            {
+                "titleRow": "Otimização diária automática",
+                "expandInfo": "Swift monitore ativamente sua loja para detectar novas imagens de produtos e mudanças recentes no tema e compactá -las automaticamente para que elas não diminuam a velocidade da sua página ou as métricas principais da Web Vitals.Para que você não precise executar a ferramenta de otimizar depois de alterar seu site."
+            },
+            {
+                "titleRow": "Imagens preguiçosas",
+                "expandInfo": "<span style='color: #202223'>Básica: </span>Imagens não vistas do LazyLoad do carregamento inicial usando a ferramenta AI</br> <span style='color: #202223'>Avançar: </span>  Lazy Load Images invisíveis do carregamento inicial pela codificação humana para garantir que o problema com imagens fora da tela seja resolvido no Google PageSpeed Insights"
+            },
+            {
+                "titleRow": "Usando tamanhos de imagem corretamente",
+                "expandInfo": "Nossos especialistas utilizarão tamanhos de imagem responsivos para carregar o tamanho certo de imagem a cada vez, interrompendo as imagens grandes para prejudicar a velocidade da sua página."
+            },
+            {
+                "titleRow": "Lazyload YouTube/Vimeo Videos",
+                "expandInfo": "Carregue o YouTube/Vimeo Video Player sob demanda quando o usuário clicar no botão Play e a imagem de miniatura apenas em vez de play automaticamente."
+            },
+            {
+                "titleRow": "Minificar arquivos JS, CSS e HTML",
+                "expandInfo": "A Minification pega o código embelezado e bem formado (arquivos CSS/JS/HTML) e remove o espaçamento, o indentação, as linhas novas e os comentários para reduzir o tamanho do código -fonte, tornando sua transmissão pela Internet) mais eficiente."
+            },
+            {
+                "titleRow": "Extraia CSs críticos",
+                "expandInfo": "Uma técnica que extrai o CSS para conteúdo acima da dobra para renderizar o conteúdo ao usuário o mais rápido possível.Acima da dobra, é todo o conteúdo que um visualizador vê na página carregar, antes de rolar."
+            },
+            {
+                "titleRow": "Pré -carga Fontes da Web",
+                "expandInfo": "As fontes da Web (mais usadas são as fontes do Google) retiradas da Web não são tão rápidas quanto as fontes do sistema (as instaladas no seu computador).O tráfego da Web fora do seu site se torna parte da velocidade de carregamento.Portanto, vale a pena fazer a pré -carga de suas fontes da web para melhorar a velocidade de carregamento do seu site."
+            },
+            {
+                "titleRow": "Otimize o código JavaScript de aplicativos de terceiros",
+                "expandInfo": "Muitos scripts de outros aplicativos podem prejudicar a velocidade da sua página.Analisamos os aplicativos carregados em sua loja, adiamos e monitoramos para reduzir seu impacto em sua loja."
+            },
+            {
+                "titleRow": "Corrigir problemas manualmente avisados pelo Google PageSpeed Insights Ferramenta",
+                "expandInfo": "Investigaremos e verificaremos todos os avisos no Google PageSpeed Insights e corrigi -los (se possível) para aumentar sua pontuação de velocidade."
+            },
+            {
+                "titleRow": "Análise e sugestões gratuitas de velocidade da loja",
+                "expandInfo": "Receba uma análise gratuita sobre a situação de velocidade atual da sua loja e sugestões para melhorá -la."
+            },
+            {
+                "titleRow": "Aplicativos e recomendação alternativa do tema",
+                "expandInfo": "Caso você tenha instalado um (s) aplicativo (s) e/ou tema lento (s), daremos algumas sugestões e você será a pessoa a decidir finalmente."
+            },
+            {
+                "titleRow": "16/5 bate -papo ao vivo e suporte por e -mail",
+                "expandInfo": "Sempre tentamos o nosso melhor para fornecer um serviço de suporte de classe mundial quando estamos online.Quaisquer perguntas/preocupações devem ser respondidas dentro de 1 dia útil."
+            },
+            {
+                "titleRow": "Gerente de contas dedicado",
+                "expandInfo": "Um gerente de conta dedicado acompanhará o primeiro dia após a compra do serviço e será o seu principal ponto de contato por toda a vida."
+            },
+            {
+                "titleRow": "Visualizar antes do ar",
+                "expandInfo": "Você terá a chance de visualizar o tema otimizado e testar as funções antes de publicá -lo em sua loja ao vivo."
+            },
+            {
+                "titleRow": "Check-up mensal",
+                "expandInfo": "Mensalmente, nosso sistema avaliará sua loja e enviaremos uma notificação por e -mail, caso sua pontuação de velocidade esteja sendo diminuída."
+            }
+        ],
+        "modal_component": {
+            "title_heading": "Sucesso de atualização",
+            "title_body": "Você está usando um plano premium",
+            "des_body": "Afivele seu cinto de segurança.A velocidade da sua loja está prestes a ser mais rápida do que nunca."
+        }
+    },
+    "onboarding_page": {
+        "common": {
+            "step_start": "Começar",
+            "step_preview": "preview",
+            "step_finish": "Terminar"
+        },
+        "step1_component": {
+            "title": "Um clique para melhorar a velocidade",
+            "des": "Melhore a velocidade da sua loja e aumente a conversão de vendas",
+            "btn": "Aumentar a velocidade"
+        },
+        "step2_component": {
+            "title": "Visualize sua loja para verificar a velocidade",
+            "des": "Melhore a velocidade da sua loja e aumente a conversão de vendas",
+            "btn_learn": "Saber mais",
+            "btn_preview": "Visualize Store e volte",
+            "box_note": {
+                "title": "NOTA IMPORTANTE:",
+                "note1": "O aplicativo SWIFT, primeiro, pré -carregará os links e trabalhará na segunda página carregar, para que sua loja carregue mais rapidamente.",
+                "note2": "Esta etapa não terá nenhum impacto nas pontuações de velocidade em ferramentas como o Google PageSpeed Insights, GTMetrix, Pingdom.",
+                "note3": "Para aumentar as pontuações de velocidade, vá mais longe nas próximas etapas."
+            },
+            "pop_up": "Sua loja acelera com sucesso"
+        },
+        "step3_component": {
+            "title": "Sua loja agora está carregando mais rápido sem mais configuração!",
+            "des": "Desfrutando da sua experiência?",
+            "btn_yes": "Sim, diga -me mais",
+            "btn_no": "Não, eu preciso de ajuda"
+        }
+    },
+    "setting_page": {
+        "language": {
+            "title": "Idiomas publicados",
+            "btn_cancel": "Cancelar",
+            "btn_save": "Salvar",
+            "des": "Ativos nos mercados aos quais foram adicionados e visíveis aos clientes.",
+            "form": {
+                "lable": "Linguagem",
+                "note": "Idioma para botões, títulos e outros texto do aplicativo Swift"
+            }
+        }
+    }
+}
